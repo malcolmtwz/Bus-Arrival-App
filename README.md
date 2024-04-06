@@ -1,4 +1,4 @@
-![image](https://github.com/malcolmtwz/Bus-Arrival-App/assets/91950295/7c2b19cd-fc98-405b-a297-cf9420881aad)<!-- Improved compatibility of back to top link: See: https://github.com/othneildrew/Best-README-Template/pull/73 -->
+<!-- Improved compatibility of back to top link: See: https://github.com/othneildrew/Best-README-Template/pull/73 -->
 <a name="readme-top"></a>
 <!--
 *** Thanks for checking out the Best-README-Template. If you have a suggestion
@@ -88,7 +88,7 @@ This is an example of how to list things you need to use the software and how to
 
 ### Installation
 
-1. Get a free API Key at [[https://example.com](https://example.com)](https://datamall.lta.gov.sg/content/datamall/en/dynamic-data.html)
+1. Get a free API Key at [API]
 2. Clone the repo
    ```sh
    git clone https://github.com/malcolmtwz/Bus-Arrival-App.git
@@ -135,4 +135,5 @@ See the [open issues](https://github.com/malcolmtwz/Bus-Arrival-App/issues) for 
 [product-screenshot]: images/screenshot.png
 [React.js]: https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB
 [React-url]: https://reactjs.org/
+[API]: https://datamall.lta.gov.sg/content/datamall/en/dynamic-data.html
 
